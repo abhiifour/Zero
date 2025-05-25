@@ -91,7 +91,8 @@ export function CreateEmail({
   }, [session, connections, activeConnection]);
 
   const userEmail = activeAccount?.email || activeConnection?.email || session?.user?.email || '';
-
+  const userName = activeAccount?.name || activeConnection?.name || session?.user?.name || '';
+  
   const handleSendEmail = async (data: {
     to: string[];
     cc?: string[];
@@ -110,7 +111,7 @@ export function CreateEmail({
       subject: data.subject,
       message: data.message,
       attachments: await serializeFiles(data.attachments),
-      fromEmail,
+      fromEmail: `${userName} <${fromEmail}>`,
       draftId: draftId ?? undefined,
     });
 
