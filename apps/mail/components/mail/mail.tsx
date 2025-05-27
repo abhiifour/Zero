@@ -397,16 +397,16 @@ export function MailLayout() {
   return (
     <TooltipProvider delayDuration={0}>
       <PricingDialog />
-      <div className="rounded-inherit relative z-[5] flex p-0 md:mt-1">
+      <div className="rounded-inherit relative z-[5] flex p-0 md:mt-1 ">
         <ResizablePanelGroup
           direction="horizontal"
           autoSaveId="mail-panel-layout"
           className="rounded-inherit overflow-hidden"
         >
           <ResizablePanel
-            defaultSize={40}
-            minSize={40}
-            maxSize={50}
+            defaultSize={35}
+            minSize={35}
+            maxSize={40}
             className={cn(
               `bg-panelLight dark:bg-panelDark mb-1 w-fit shadow-sm md:rounded-2xl md:border md:border-[#E7E7E7] lg:flex lg:shadow-sm dark:border-[#252525]`,
               isDesktop && threadId && 'hidden lg:block',
