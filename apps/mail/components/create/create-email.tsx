@@ -111,7 +111,9 @@ export function CreateEmail({
       subject: data.subject,
       message: data.message,
       attachments: await serializeFiles(data.attachments),
-      fromEmail: `${userName} <${fromEmail}>`,
+      fromEmail: userName.trim() 
+      ? `${userName.replace(/[<>]/g, '')} <${fromEmail}>` 
+      : fromEmail,
       draftId: draftId ?? undefined,
     });
 
