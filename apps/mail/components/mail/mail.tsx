@@ -806,7 +806,7 @@ export const Categories = () => {
     },
     {
       id: 'All Mail',
-      name: 'All Mail',
+      name: t('common.mailCategories.allMail'),
       searchValue: 'NOT is:draft (is:inbox OR (is:sent AND to:me))',
       icon: (
         <Mail
@@ -847,7 +847,7 @@ export const Categories = () => {
     },
     {
       id: 'Promotions',
-      name: 'Promotions',
+      name: t('common.mailCategories.promotions'),
       searchValue: 'is:promotions NOT is:sent NOT is:draft',
       icon: (
         <Tag
@@ -860,7 +860,7 @@ export const Categories = () => {
     },
     {
       id: 'Unread',
-      name: 'Unread',
+      name: t('common.mailCategories.unread'),
       searchValue: 'is:unread NOT is:sent NOT is:draft',
       icon: (
         <ScanEye
@@ -908,7 +908,6 @@ function CategorySelect({ isMultiSelectMode }: { isMultiSelectMode: boolean }) {
   });
   const containerRef = useRef<HTMLDivElement>(null);
   const activeTabElementRef = useRef<HTMLButtonElement>(null);
-
   // Only show category selection for inbox folder
   if (folder !== 'inbox') return <div className="h-8"></div>;
 
