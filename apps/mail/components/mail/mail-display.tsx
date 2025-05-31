@@ -228,7 +228,7 @@ const MailDisplayLabels = ({ labels }: { labels: string[] }) => {
               </Badge>
             </TooltipTrigger>
             <TooltipContent>
-              <p className="text-xs dark:bg-[#1A1A1A] ">{normalizedLabel}</p>
+              <p className="text-xs">{normalizedLabel}</p>
             </TooltipContent>
           </Tooltip>
         );
