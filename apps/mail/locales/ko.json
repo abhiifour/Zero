@@ -466,7 +466,12 @@
           "showUpdates": "업데이트 표시",
           "showPromotions": "프로모션 표시",
           "showUnread": "읽지 않은 메일 표시",
-          "selectUnderCursor": "커서 아래 항목 선택"
+          "selectUnderCursor": "커서 아래 항목 선택",
+          "clearAllFilters": "모든 필터 지우기",
+          "markAsImportant": "중요 표시",
+          "bulkArchive": "대량 보관",
+          "bulkDelete": "대량 삭제",
+          "bulkStar": "대량 즐겨찾기"
         }
       },
       "labels": {

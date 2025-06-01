@@ -459,7 +459,12 @@
           "showUpdates": "显示更新",
           "showPromotions": "显示促销邮件",
           "showUnread": "显示未读邮件",
-          "selectUnderCursor": "选择光标下的内容"
+          "selectUnderCursor": "选择光标下的内容",
+          "clearAllFilters": "清除所有筛选条件",
+          "markAsImportant": "标记为重要",
+          "bulkArchive": "批量归档",
+          "bulkDelete": "批量删除",
+          "bulkStar": "批量加星标"
         }
       },
       "labels": {

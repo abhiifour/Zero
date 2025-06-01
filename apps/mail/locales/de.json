@@ -466,7 +466,12 @@
           "showUpdates": "Updates anzeigen",
           "showPromotions": "Werbeaktionen anzeigen",
           "showUnread": "Ungelesene anzeigen",
-          "selectUnderCursor": "Unter Cursor auswählen"
+          "selectUnderCursor": "Unter Cursor auswählen",
+          "clearAllFilters": "Alle Filter löschen",
+          "markAsImportant": "Als wichtig markieren",
+          "bulkArchive": "Massenarchivierung",
+          "bulkDelete": "Massenlöschung",
+          "bulkStar": "Massenhaft mit Stern markieren"
         }
       },
       "labels": {

@@ -459,7 +459,12 @@
           "showUpdates": "顯示更新郵件",
           "showPromotions": "顯示促銷郵件",
           "showUnread": "顯示未讀郵件",
-          "selectUnderCursor": "選取游標下的內容"
+          "selectUnderCursor": "選取游標下的內容",
+          "clearAllFilters": "清除所有篩選條件",
+          "markAsImportant": "標記為重要",
+          "bulkArchive": "批次封存",
+          "bulkDelete": "批次刪除",
+          "bulkStar": "批次加星標"
         }
       },
       "labels": {

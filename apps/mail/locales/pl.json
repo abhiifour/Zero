@@ -466,7 +466,12 @@
           "showUpdates": "Pokaż aktualizacje",
           "showPromotions": "Pokaż promocje",
           "showUnread": "Pokaż nieprzeczytane",
-          "selectUnderCursor": "Zaznacz pod kursorem"
+          "selectUnderCursor": "Zaznacz pod kursorem",
+          "clearAllFilters": "Wyczyść wszystkie filtry",
+          "markAsImportant": "Oznacz jako ważne",
+          "bulkArchive": "Zarchiwizuj zbiorczo",
+          "bulkDelete": "Usuń zbiorczo",
+          "bulkStar": "Oznacz gwiazdką zbiorczo"
         }
       },
       "labels": {

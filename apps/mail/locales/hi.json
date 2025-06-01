@@ -466,7 +466,12 @@
           "showUpdates": "अपडेट दिखाएँ",
           "showPromotions": "प्रमोशन दिखाएँ",
           "showUnread": "अपठित दिखाएँ",
-          "selectUnderCursor": "कर्सर के नीचे चुनें"
+          "selectUnderCursor": "कर्सर के नीचे चुनें",
+          "clearAllFilters": "सभी फ़िल्टर साफ़ करें",
+          "markAsImportant": "महत्वपूर्ण के रूप में चिह्नित करें",
+          "bulkArchive": "थोक संग्रहित करें",
+          "bulkDelete": "थोक हटाएं",
+          "bulkStar": "थोक स्टार"
         }
       },
       "labels": {

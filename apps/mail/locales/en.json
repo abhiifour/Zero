@@ -439,6 +439,11 @@
         "actions": {
           "newEmail": "New Email",
           "sendEmail": "Send Email",
+          "clearAllFilters":"Clear All Filters",
+          "markAsImportant":"Mark as Important",
+          "bulkArchive":"Bulk Archive",
+          "bulkDelete":"Bult Delete",
+          "bulkStar":"Bulk Star",
           "reply": "Reply",
           "replyAll": "Reply All",
           "forward": "Forward",

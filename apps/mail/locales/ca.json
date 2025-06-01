@@ -466,7 +466,12 @@
           "showUpdates": "Mostrar actualitzacions",
           "showPromotions": "Mostrar promocions",
           "showUnread": "Mostrar no llegits",
-          "selectUnderCursor": "Seleccionar sota el cursor"
+          "selectUnderCursor": "Seleccionar sota el cursor",
+          "clearAllFilters": "Esborra tots els filtres",
+          "markAsImportant": "Marca com a important",
+          "bulkArchive": "Arxiu massiu",
+          "bulkDelete": "Eliminació massiva",
+          "bulkStar": "Marcar amb estrella en massa"
         }
       },
       "labels": {

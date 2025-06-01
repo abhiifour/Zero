@@ -459,7 +459,12 @@
           "showUpdates": "نمایش به‌روزرسانی‌ها",
           "showPromotions": "نمایش تبلیغات",
           "showUnread": "نمایش خوانده‌نشده‌ها",
-          "selectUnderCursor": "انتخاب زیر نشانگر"
+          "selectUnderCursor": "انتخاب زیر نشانگر",
+          "clearAllFilters": "پاک‌ کردن تمام فیلترها",
+          "markAsImportant": "علامت‌گذاری به عنوان مهم",
+          "bulkArchive": "بایگانی گروهی",
+          "bulkDelete": "حذف گروهی",
+          "bulkStar": "ستاره‌دار کردن گروهی"
         }
       },
       "labels": {

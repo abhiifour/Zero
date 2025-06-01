@@ -466,7 +466,12 @@
           "showUpdates": "Mostrar actualizaciones",
           "showPromotions": "Mostrar promociones",
           "showUnread": "Mostrar no leídos",
-          "selectUnderCursor": "Seleccionar bajo el cursor"
+          "selectUnderCursor": "Seleccionar bajo el cursor",
+          "clearAllFilters": "Borrar todos los filtros",
+          "markAsImportant": "Marcar como importante",
+          "bulkArchive": "Archivar en masa",
+          "bulkDelete": "Eliminar en masa",
+          "bulkStar": "Marcar con estrella en masa"
         }
       },
       "labels": {

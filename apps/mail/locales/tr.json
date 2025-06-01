@@ -466,7 +466,12 @@
           "showUpdates": "Güncellemeleri göster",
           "showPromotions": "Promosyonları göster",
           "showUnread": "Okunmamışları göster",
-          "selectUnderCursor": "İmleç altındakini seç"
+          "selectUnderCursor": "İmleç altındakini seç",
+          "clearAllFilters": "Tüm filtreleri temizle",
+          "markAsImportant": "Önemli olarak işaretle",
+          "bulkArchive": "Toplu arşivle",
+          "bulkDelete": "Toplu sil",
+          "bulkStar": "Toplu yıldızla"
         }
       },
       "labels": {

@@ -466,7 +466,12 @@
           "showUpdates": "Zobrazit aktualizace",
           "showPromotions": "Zobrazit propagace",
           "showUnread": "Zobrazit nepřečtené",
-          "selectUnderCursor": "Vybrat pod kurzorem"
+          "selectUnderCursor": "Vybrat pod kurzorem",
+          "clearAllFilters": "Vymazat všechny filtry",
+          "markAsImportant": "Označit jako důležité",
+          "bulkArchive": "Hromadné archivování",
+          "bulkDelete": "Hromadné smazání",
+          "bulkStar": "Hromadné označení hvězdičkou"
         }
       },
       "labels": {

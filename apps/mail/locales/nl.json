@@ -466,7 +466,12 @@
           "showUpdates": "Toon updates",
           "showPromotions": "Toon promoties",
           "showUnread": "Toon ongelezen",
-          "selectUnderCursor": "Selecteer onder cursor"
+          "selectUnderCursor": "Selecteer onder cursor",
+          "clearAllFilters": "Alle filters wissen",
+          "markAsImportant": "Markeren als belangrijk",
+          "bulkArchive": "Bulk archiveren",
+          "bulkDelete": "Bulk verwijderen",
+          "bulkStar": "Bulk markeren met ster"
         }
       },
       "labels": {

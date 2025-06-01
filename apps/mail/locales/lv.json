@@ -466,7 +466,12 @@
           "showUpdates": "Rādīt atjauninājumus",
           "showPromotions": "Rādīt akcijas",
           "showUnread": "Rādīt nelasītos",
-          "selectUnderCursor": "Atlasīt zem kursora"
+          "selectUnderCursor": "Atlasīt zem kursora",
+          "clearAllFilters": "Notīrīt visus filtrus",
+          "markAsImportant": "Atzīmēt kā svarīgu",
+          "bulkArchive": "Masveida arhivēšana",
+          "bulkDelete": "Masveida dzēšana",
+          "bulkStar": "Masveida atzīmēšana ar zvaigzni"
         }
       },
       "labels": {

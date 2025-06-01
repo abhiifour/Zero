@@ -459,7 +459,12 @@
           "showUpdates": "Hiển thị cập nhật",
           "showPromotions": "Hiển thị khuyến mãi",
           "showUnread": "Hiển thị chưa đọc",
-          "selectUnderCursor": "Chọn mục dưới con trỏ"
+          "selectUnderCursor": "Chọn mục dưới con trỏ",
+          "clearAllFilters": "Xóa tất cả bộ lọc",
+          "markAsImportant": "Đánh dấu là quan trọng",
+          "bulkArchive": "Lưu trữ hàng loạt",
+          "bulkDelete": "Xóa hàng loạt",
+          "bulkStar": "Gắn sao hàng loạt"
         }
       },
       "labels": {

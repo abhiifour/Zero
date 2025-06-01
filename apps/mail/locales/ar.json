@@ -466,7 +466,12 @@
           "showUpdates": "عرض التحديثات",
           "showPromotions": "عرض العروض",
           "showUnread": "عرض غير المقروء",
-          "selectUnderCursor": "تحديد ما تحت المؤشر"
+          "selectUnderCursor": "تحديد ما تحت المؤشر",
+          "clearAllFilters": "مسح جميع الفلاتر",
+          "markAsImportant": "وضع علامة كمهم",
+          "bulkArchive": "أرشفة جماعية",
+          "bulkDelete": "حذف جماعي",
+          "bulkStar": "تمييز جماعي بنجمة"
         }
       },
       "labels": {

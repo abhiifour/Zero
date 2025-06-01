@@ -466,7 +466,13 @@
           "showUpdates": "更新を表示",
           "showPromotions": "プロモーションを表示",
           "showUnread": "未読を表示",
-          "selectUnderCursor": "カーソル下を選択"
+          "selectUnderCursor": "カーソル下を選択",
+          "clearAllFilters": "すべてのフィルターをクリア",
+          "markAsImportant": "重要としてマーク",
+          "bulkArchive": "一括アーカイブ",
+          "bulkDelete": "一括削除",
+          "bulkStar": "一括スター"
+
         }
       },
       "labels": {

@@ -459,7 +459,12 @@
           "showUpdates": "Frissítések megjelenítése",
           "showPromotions": "Promóciók megjelenítése",
           "showUnread": "Olvasatlan üzenetek megjelenítése",
-          "selectUnderCursor": "Kurzor alatti elem kiválasztása"
+          "selectUnderCursor": "Kurzor alatti elem kiválasztása",
+          "clearAllFilters": "Összes szűrő törlése",
+          "markAsImportant": "Megjelölés fontosként",
+          "bulkArchive": "Tömeges archiválás",
+          "bulkDelete": "Tömeges törlés",
+          "bulkStar": "Tömeges csillagozás"
         }
       },
       "labels": {

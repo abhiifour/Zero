@@ -466,7 +466,12 @@
           "showUpdates": "Показать обновления",
           "showPromotions": "Показать промоакции",
           "showUnread": "Показать непрочитанное",
-          "selectUnderCursor": "Выбрать под курсором"
+          "selectUnderCursor": "Выбрать под курсором",
+          "clearAllFilters": "Очистить все фильтры",
+          "markAsImportant": "Отметить как важное",
+          "bulkArchive": "Массовый архив",
+          "bulkDelete": "Массовое удаление",
+          "bulkStar": "Массовое добавление звезды"
         }
       },
       "labels": {
